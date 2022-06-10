@@ -1,0 +1,9 @@
+__pycache__
+tmp*
+data/
+trial*/
+volsdf/
+**volsdf*
+tensorf/
+**tensorf*
+.vs/
